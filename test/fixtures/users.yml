@@ -3,3 +3,9 @@ ben:
     last_name: "Dowling"
     email: "ben.dowling@icloud.com"
     profile_name: "bendowling"
+
+jim:
+    first_name: "Jim"
+    last_name: "Hoskins"
+    email: "jim@teamtreehouse.com"
+    profile_name: "jimhoskins"
